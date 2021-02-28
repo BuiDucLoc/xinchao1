@@ -47,3 +47,6 @@ route::get('session',function(){
 route::get('getsession',function(){
 	echo Session::get('name');
 });
+route::get('master',function(){
+	echo "master";
+});
