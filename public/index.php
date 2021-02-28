@@ -53,7 +53,3 @@ $response = tap($kernel->handle(
 ))->send();
 
 $kernel->terminate($request, $response);
-//thaydoinhanh main
-//thay doi main
-
-///thaydoi main lan 2
