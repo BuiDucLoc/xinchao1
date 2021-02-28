@@ -50,3 +50,6 @@ route::get('getsession',function(){
 route::get('master',function(){
 	echo "master";
 });
+route::get('main',function(){
+	echo "main";
+});
